@@ -3,7 +3,32 @@ from django.http import HttpResponse
 from django.shortcuts import render, redirect
 from django.utils.http import is_safe_url
 
-from .forms import LoginForm, RegisterForm
+from .models import GuestEmail
+
+from .forms import LoginForm, RegisterForm, GuestForm
+
+def guest_register_view(request):
+    form = GuestForm(request.POST or None)
+    context = {
+        "form": form
+    }
+    # print("User is logged in")
+    #print(request.user.is_authenticated())
+    next_ = request.GET.get('next')
+    next_post = request.POST.get('next')
+    redirect_path = next_ or next_post or None
+
+    if form.is_valid():
+        email = form.cleaned_data.get("email")
+        new_guest_email = GuestEmail.objects.create(email=email)
+        request.session['guest_email_id'] = new_guest_email.id
+
+        if is_safe_url(redirect_path, request.get_host()):
+            return redirect(redirect_path)
+        else:
+            return redirect("/register/")
+
+    return redirect("/register/")
 
 def login_page(request):
     form = LoginForm(request.POST or None)
@@ -33,7 +58,6 @@ def login_page(request):
         else:
             #return an 'invalid login' error message
             print("Error")
-
 
     return render(request, "accounts/login.html", context)
 
