@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
+{{ object.order_id }} -- {{ object.cart }}
 
 {% if not billing_profile %}
 
@@ -19,11 +20,11 @@
 
 
 {% else %}
-<h1>Checkout</h1>
+    <h1>Checkout</h1>
 
-<p>Cart Total: {{ object.cart.total }}</p>
-<p>Shipping Total: {{ object.shipping_total }}</p>
-<p>Order Total: {{ object.total }}</p>
+    <p>Cart Total: {{ object.cart.total }}</p>
+    <p>Shipping Total: {{ object.shipping_total }}</p>
+    <p>Order Total: {{ object.total }}</p>
 {% endif %}
 
 {% endblock %}
