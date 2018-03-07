@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col mx-auto">
+          <h3>Form</h3>
+          <form class='new-content-form' method="POST" action="some/url/link">
+            <textarea name="content" class="form-control"></textarea>
+            <input type="submit" value="Save" />
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="formDataSubmited"></div>
+
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+
+    <h1 class="header">Hello, world!</h1>
+    <h1 class="header">Hello, world!</h1>
+    <h1 class="header" id='header-3'>Header 3</h1>
+    <h1 class="header">Hello, world!</h1>
+    <p class="description"><a href="#">Some link</a></p>
+    <p class="description">another p</p>
+    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ullamcorper turpis eu sem dictum, et ornare nibh imperdiet. Morbi quam ex, facilisis at consequat a, efficitur ut risus. Vestibulum ut orci sed risus tempor hendrerit. Suspendisse id quam dictum, gravida tellus ut, finibus elit. Mauris sit amet pharetra odio. Praesent nisi ex, cursus sit amet nunc ut, dapibus imperdiet ligula. Pellentesque non diam ut lectus tempor luctus in ut ipsum.
+
+    Proin tempor elit in neque sagittis, id luctus ipsum dignissim. Phasellus porta, nisl id aliquet pharetra, mauris ligula venenatis orci, in accumsan lacus libero eu felis. Ut vel ornare velit, in luctus nisl. Aliquam nibh ex, mattis eu pulvinar ac, ornare ut urna. Nam sodales eros et erat molestie scelerisque vel at nisi. Etiam quis euismod risus, et vestibulum dolor. Vestibulum viverra vestibulum maximus. Nam a mauris ipsum. Fusce porttitor ex turpis, eu pharetra sem ultricies a. Aenean ac scelerisque nulla, ac fermentum urna. Integer et risus leo. Nulla facilisi. Pellentesque gravida finibus neque a efficitur. Proin tempor a quam ac fringilla.
+
+    </p>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous"></script>
+
+      <script type="text/javascript">
+        $(document).ready(function(){
+          var contentForm = $(".new-content-form")
+          contentForm.submit(function(event){
+
+            var $this = $(this)
+
+            event.preventDefault()
+            // console.log(contentForm.serialize())
+            var textAreaContent = $this.find('textarea')
+            // console.log(textAreaContent.attr('name'))
+            // console.log(textAreaContent.val())
+            var formMethod = $this.attr("method") // contentForm.attr("method")
+            var formAction = $this.attr("action")
+
+            var data = {
+              "content": textAreaContent.val(),
+              "method": formMethod,
+              "action": formAction
+            }
+
+            $('.formDataSubmited').text(textAreaContent.val() + " method is " + formMethod + " action: " + formAction)
+
+            textAreaContent.val("")
+          })
+        })
+
+      </script>
+
+<!--     <script type="text/javascript">
+        $(document).ready(function(){
+
+          var $description = $(".description")
+          $description.css("height", "300px").css("width","250px")
+
+
+          $.each($description, function(index, obj){
+            var item = $(this)
+            // console.log(item[0].scrollHeight)
+            var actualHeight = item[0].scrollHeight
+            var shouldBeHeight= item.height()
+            // console.log(actualHeight, shouldBeHeight)
+
+            if (actualHeight > shouldBeHeight){
+              item.css("overflow-y", "scroll")
+            }
+            // console.log(index, item.height())
+            // console.log(index, obj)
+          })
+
+          var $header3 = $("#header-3")
+          $header3.click(function(event){
+            var $this = $(this)
+            console.log($this[0].scrollHeight)
+            console.log(event)
+            window.location.href ='http://www.google.com/'
+          })
+
+          var descriptionLinks = $(".description a")
+          descriptionLinks.click(function(event){
+            console.log(event)
+            event.preventDefault()
+
+            var $this = $(this)
+            var href = $this
+            var href = $this.attr("href")
+            console.log(href)
+            alert(href)
+            window.location.href = href
+
+          })
+
+        })
+      </script> -->
+
+ <!--      <script type="text/javascript">
+        $(document).ready(function(){
+          var num = 124
+          var someString = "some string"
+          // python some_array = [num, 123, 123333, "an so on"]
+          var someArray = [num, 123, 123333, "an so on"]
+          var someBool = true //true
+
+          $.each(someArray, function(index, obj){
+            console.log(index, obj)
+            if (obj %2 == 0 && someBool){
+              console.log(obj + " is even")
+            } else if (obj %3 == 0 && someBool){
+              console.log(obj + " by 3")
+            } else {
+              console.log("false and/or obj is not even")
+            }
+          })
+        })
+
+      </script> -->
+
+<!--       <script type="text/javascript">
+        $(document).ready(function(){
+
+          var $description = $(".description")
+          $description.css("height", "300px").css("width","250px")
+          console.log($description.length) // if 1 then exists // print()
+          console.log($description.css("height"))
+          console.log($description.height()) // print()
+
+          // if currentElement height > builtInHenight
+          // add $description.css("overflow","scroll")
+
+
+
+
+          setTimeout(function(){
+            $('h1').css("color","purple")
+            $('h1:nth-child(2)').text("Hello Again")
+            $('#header-3').text("Hello again header 3")
+            $(".header").css("background-color", "green").css("padding", "30px")
+          }, 2000)
+
+        })
+
+      </script> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
