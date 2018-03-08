@@ -37,10 +37,6 @@
               data : formData,
 
               success: function(data){
-                console.log("success")
-                console.log(data)
-                console.log("Added", data.added)
-                console.log("Removed", data.removed)
                 var submitSpan = thisForm.find(".submit-span")
 
                 if (data.added){
@@ -48,6 +44,10 @@
                 } else {
                   submitSpan.html('<button class="btn btn-success">Add to Cart</button>')
                 }
+
+                var navbarCount = $(".navbar-cart-count")
+                navbarCount.text(data.cartItemCount)
+
               },
 
               error: function(errorData){
