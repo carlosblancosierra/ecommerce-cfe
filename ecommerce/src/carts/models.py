@@ -14,7 +14,7 @@ class CartManager(models.Manager):
         if qs.count() == 1:
             new_object = False
             cart_obj = qs.first()
-            print("Cart ID exists")
+            # print("Cart ID exists")
             if request.user.is_authenticated and cart_obj.user is None:
                 cart_obj.user = request.user
                 cart_obj.save()
