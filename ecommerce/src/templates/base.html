@@ -89,6 +89,11 @@
               },
 
               error: function(errorData){
+                $.alert({
+                  title:"Oops",
+                  content:"An error ocurred",
+                  theme:"modern",
+                })
                 console.log("error")
                 console.log(errorData)
               }
@@ -137,6 +142,7 @@
                 },
 
                 error: function(errorData){
+                  alert("An error ocurred")
                   console.log("error")
                   console.log(errorData)
                 }

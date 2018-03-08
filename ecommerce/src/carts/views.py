@@ -64,10 +64,10 @@ def cart_update(request):
             "cartItemCount": cart_obj.products.count()
             }
 
-            return JsonResponse(json_data)
+            return JsonResponse(json_data, status=200)
+            # return JsonResponse({"message":"Error 400"}, status_code=400)
 
-    #cart_ob.products.add(product_id)
-    #return redirect(product_obj.get_absolute_url())
+
     return redirect("cart:home")
 
 
