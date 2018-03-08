@@ -66,7 +66,10 @@
               console.log("in current cart")
               var cartTable = $(".cart-table")
               var cartBody = cartTable.find(".cart-body")
-              cartBody.html("<h1>Changed</h1>")
+              // cartBody.html("<h1>Changed</h1>")
+
+              var productsRows = cartBody.find(".cart-products")
+              var currentUrl = window.location.href
 
               var refreshCartUrl = '/api/cart'
               var refreshCartMethod = 'GET'
@@ -77,8 +80,17 @@
                 method: refreshCartMethod,
                 data: data,
 
-                succes: function(data){
+                success: function(data){
                   console.log("succes")
+                  console.log(data)
+
+                  if(data.products.length > 0){
+                    productsRows.html("<tr><td colspan=3>Coming Soon</td></tr>")
+                    cartBody.find('.cart-subtotal').text(data.subtotal)
+                    cartBody.find('.cart-total').text(data.total)
+                  } else {
+                    window.location.href = currentUrl
+                  }
                 },
 
                 error: function(errorData){
