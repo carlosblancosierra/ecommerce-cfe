@@ -4,40 +4,420 @@
 		"selected_items":
 		[
 			[
+				"car",
+				"card_response"
+			],
+			[
+				"str",
+				"stripeModuleBtnTitle"
+			],
+			[
+				"next",
+				"nextUrl"
+			],
+			[
+				"nex",
+				"nextUrl"
+			],
+			[
+				"succ",
+				"successMsg"
+			],
+			[
+				"next_",
+				"next_url"
+			],
+			[
+				"ne",
+				"next_url"
+			],
+			[
+				"pay",
+				"paymentForm"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"paym",
+				"paymentForm"
+			],
+			[
+				"pa",
+				"paymentForm"
+			],
+			[
+				"Bill",
+				"BillingProfile"
+			],
+			[
 				"re",
 				"request"
+			],
+			[
+				"Lo",
+				"LoginView"
+			],
+			[
+				"form",
+				"form_class"
+			],
+			[
+				"Email",
+				"EmailField"
+			],
+			[
+				"f",
+				"fullname"
+			],
+			[
+				"User",
+				"UserAdminCreationForm"
+			],
+			[
+				"Gue",
+				"GuestEmailAdmin"
+			],
+			[
+				"is",
+				"is_active"
+			],
+			[
+				"user",
+				"user_obj"
+			],
+			[
+				"isa",
+				"is_admin"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"do",
+				"doSubmit"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"error",
+				"errorData"
+			],
+			[
+				"cont",
+				"contactFormData"
+			],
+			[
+				"sea",
+				"search"
+			],
+			[
+				"se",
+				"searchForm"
+			],
+			[
+				"ty",
+				"typingInterval"
+			],
+			[
+				"search",
+				"searchInput"
+			],
+			[
+				"searc",
+				"searchForm"
+			],
+			[
+				"val",
+				"value\tAngularJS"
+			],
+			[
+				"get",
+				"get_absolute_url"
+			],
+			[
+				"cart",
+				"cartBody"
+			],
+			[
+				"pro",
+				"productsRows"
+			],
+			[
+				"p",
+				"product_list"
+			],
+			[
+				"cart_",
+				"cart_obj"
+			],
+			[
+				"erro",
+				"errorData"
+			],
+			[
+				"refresh",
+				"refreshCartUrl"
+			],
+			[
+				"nav",
+				"navbarCount"
+			],
+			[
+				"this",
+				"thisForm"
+			],
+			[
+				"action",
+				"actionEndpoint"
+			],
+			[
+				"ths",
+				"thisForm"
+			],
+			[
+				"text",
+				"textAreaContent"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"des",
+				"descriptionLinks"
+			],
+			[
+				"scrol",
+				"scrollHeight"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"each",
+				"eachItem"
+			],
+			[
+				"some",
+				"someBool"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"po",
+				"postal_code"
+			],
+			[
+				"c",
+				"city"
+			],
+			[
+				"ad",
+				"address_line_2"
+			],
+			[
+				"lin",
+				"line2"
+			],
+			[
+				"col-",
+				"col-12"
+			],
+			[
+				"shipping",
+				"shipping_address"
+			],
+			[
+				"addres",
+				"address_type"
+			],
+			[
+				"addre",
+				"address_qs"
+			],
+			[
+				"bill",
+				"billing_profile"
+			],
+			[
+				"bi",
+				"billing_address"
+			],
+			[
+				"shi",
+				"shipping_address"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"add",
+				"addresses"
+			],
+			[
+				"billin",
+				"billing_address_id"
+			],
+			[
+				"billing",
+				"billing_address"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"bil",
+				"billing_profile"
+			],
+			[
+				"addr",
+				"address_line_1"
+			],
+			[
+				"adress",
+				"address_form"
+			],
+			[
+				"Billi",
+				"BillingProfileManager"
+			],
+			[
+				"creat",
+				"created"
+			],
+			[
+				"obj",
+				"order_obj"
+			],
+			[
+				"new",
+				"new_or_get"
+			],
+			[
+				"Oder",
+				"OrderManager"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"ord",
+				"order_qs"
+			],
+			[
+				"order",
+				"order_obj"
+			],
+			[
+				"guest_",
+				"guest_email_id"
+			],
+			[
+				"gu",
+				"guest_email_id"
+			],
+			[
+				"new_",
+				"new_guest_email"
+			],
+			[
+				"Gues",
+				"GuestEmail"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"is_",
+				"is_safe_url"
+			],
+			[
+				"post_",
+				"post_save_order"
+			],
+			[
+				"ran",
+				"random_string_generator"
+			],
+			[
+				"Producu",
+				"ProductDetailSlugView"
+			],
+			[
+				"new_o",
+				"new_or_get"
+			],
+			[
+				"ca",
+				"cart_id"
+			],
+			[
+				"get_",
+				"get_context_data"
+			],
+			[
+				"col",
+				"col-12"
+			],
+			[
+				"PRod",
+				"products"
+			],
+			[
+				"pordu",
+				"Product"
+			],
+			[
+				"uni",
+				"unique_slug_generator"
+			],
+			[
+				"r",
+				"raise"
+			],
+			[
+				"Det",
+				"DetailView"
+			],
+			[
+				"Product",
+				"ProductAdmin"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"q",
+				"get_queryset"
+			],
+			[
+				"fea",
+				"featured"
+			],
+			[
+				"Po",
+				"ProductQuerySet"
 			],
 			[
 				"Pro",
 				"Product"
 			],
 			[
-				"get",
-				"get"
-			],
-			[
-				"Product",
-				"ProductManager"
-			],
-			[
-				"Det",
-				"ProductDetailView"
-			],
-			[
-				"PRod",
-				"ProductDetailView"
-			],
-			[
-				"pro",
-				"products"
-			],
-			[
 				"url",
 				"urlpatterns"
-			],
-			[
-				"user",
-				"username"
 			],
 			[
 				"ge",
@@ -54,14 +434,6 @@
 			[
 				"reg",
 				"register_page"
-			],
-			[
-				"con",
-				"context"
-			],
-			[
-				"is",
-				"is_authenticated"
 			],
 			[
 				"cl",
@@ -90,10 +462,6 @@
 			[
 				"hom",
 				"home_page"
-			],
-			[
-				"text",
-				"text-decoration"
 			],
 			[
 				"hero",
@@ -146,337 +514,11 @@
 			[
 				"winne",
 				"winner_previous_wins"
-			],
-			[
-				"w",
-				"winner"
-			],
-			[
-				"pla",
-				"player_id"
-			],
-			[
-				"winn",
-				"winnerQuery"
-			],
-			[
-				"pad",
-				"padding-bottom"
-			],
-			[
-				"text-r",
-				"text-orientation"
-			],
-			[
-				"remo",
-				"Remodeling"
-			],
-			[
-				"a",
-				"auto"
-			],
-			[
-				"i",
-				"initial"
-			],
-			[
-				"abo",
-				"about_hero_2"
-			],
-			[
-				"im",
-				"important"
-			],
-			[
-				"v",
-				"vertical-align"
-			],
-			[
-				"font",
-				"font-weight"
-			],
-			[
-				"mar",
-				"margin-bottom"
-			],
-			[
-				"benef",
-				"benefit4"
-			],
-			[
-				"bene",
-				"benefit2"
-			],
-			[
-				"main",
-				"main-color-red"
-			],
-			[
-				"padding",
-				"padding-top"
-			],
-			[
-				"sty",
-				"style"
-			],
-			[
-				"col",
-				"col-md-6"
-			],
-			[
-				"max",
-				"max-width"
-			],
-			[
-				"mian-",
-				"main-color-red"
-			],
-			[
-				"bord",
-				"border-radius"
-			],
-			[
-				"or",
-				"orange-background"
-			],
-			[
-				"col-",
-				"col-sm-3"
-			],
-			[
-				"ap",
-				"apiKey"
-			],
-			[
-				"fai",
-				"failUrl"
-			],
-			[
-				"nyt",
-				"nytElem"
-			],
-			[
-				"cy",
-				"cityStr"
-			],
-			[
-				"n",
-				"nytHeaderElem"
-			],
-			[
-				"street",
-				"streetviewUrl"
-			],
-			[
-				"S",
-				"streetStr"
-			],
-			[
-				"hou",
-				"house_icon"
-			],
-			[
-				"aw",
-				"awesomeT"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"flex",
-				"flex-wrap"
-			],
-			[
-				"fle",
-				"flex-wrap"
-			],
-			[
-				"background-c",
-				"background-color"
-			],
-			[
-				"ali",
-				"align-self"
-			],
-			[
-				"cap",
-				"capList"
-			],
-			[
-				"def",
-				"def"
-			],
-			[
-				"x",
-				"xx"
-			],
-			[
-				"ad",
-				"addTwo"
-			],
-			[
-				"u",
-				"util"
-			],
-			[
-				"prin",
-				"println"
-			],
-			[
-				"app",
-				"append"
-			],
-			[
-				"toy",
-				"toys"
-			],
-			[
-				"so",
-				"solid"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "src/ecommerce/views.py",
-			"settings":
-			{
-				"buffer_size": 2629,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/auth/register.html",
-			"settings":
-			{
-				"buffer_size": 127,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/auth/login.html",
-			"settings":
-			{
-				"buffer_size": 127,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/ecommerce/settings.py",
-			"settings":
-			{
-				"buffer_size": 3456,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/products/models.py",
-			"settings":
-			{
-				"buffer_size": 1226,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "#from django.views import ListView\nfrom django.http import Http404\nfrom django.views.generic import ListView, DetailView\nfrom django.shortcuts import render, get_object_or_404\n\nfrom .models import Product\n\nclass ProductListView(ListView):\n    queryset = Product.objects.all()\n    template_name = \"products/list.html\"\n\n    # def get_context_data(self, *args, **kwargs):\n    #     context = super(ProductListView, self).get_context_data(*args, **kwargs)\n    #     print(context)\n    #     return context\n\n    def get_queryset(self, ):\n        request = self.request\n        return Product.objects.all()\n\n\ndef product_list_view(request):\n    queryset = Product.objects.all()\n    context = {\n        'object_list': queryset\n    }\n    return render(request, \"products/list.html\", context)\n\nclass ProductDetailView(DetailView):\n    queryset = Product.objects.all()\n    template_name = \"products/detail.html\"\n\n    def get_context_data(self, *args, **kwargs):\n        context = super(ProductDetailView, self).get_context_data(*args, **kwargs)\n        print(context)\n        return context\n\n    def get_object(self, *args, **kwargs):\n        request = self.request\n        pk = self.kwargs.get('pk')\n        instance = Product.objects.get_by_id(pk)\n        if instance is None:\n            raise Http404(\"Product does not exists\")\n        return instance\n\ndef product_detail_view(request, pk=None, *args, **kwargs):\n    #instance  = Product.objects.get(pk=pk)\n    #instance = get_object_or_404(Product, pk=pk)\n\n    instance = Product.objects.get_by_id(pk)\n    if instance is None:\n        raise Http404('Product doesn\\'t exist')\n\n    # try:\n    #     instance = Product.objects.get(id=pk)\n    # except Product.DoesNotExist:\n    #     print('no product here')\n    #     raise Http404('Product doesn\\'t exist')\n    # except:\n    #     print('huh?')\n\n    # qs = Product.objects.filter(id=pk)\n    # if qs.exists() and qs.count() == 1:\n    #     instance = qs.first()\n    # else:\n    #     raise Http404('Product doesn\\'t exist')\n\n\n    queryset = Product.objects.all()\n    context = {\n        'object': instance\n    }\n    return render(request, \"products/detail.html\", context)\n",
-			"file": "src/products/views.py",
-			"file_size": 2065,
-			"file_write_time": 131632260802094120,
-			"settings":
-			{
-				"buffer_size": 2164,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/products/templates/products/detail.html",
-			"settings":
-			{
-				"buffer_size": 133,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/products/templates/products/list.html",
-			"settings":
-			{
-				"buffer_size": 65,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/products/admin.py",
-			"settings":
-			{
-				"buffer_size": 120,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/home_page.html",
-			"settings":
-			{
-				"buffer_size": 1889,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/contact/view.html",
-			"settings":
-			{
-				"buffer_size": 2158,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/ecommerce/forms.py",
-			"settings":
-			{
-				"buffer_size": 2033,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/ecommerce/urls.py",
-			"settings":
-			{
-				"buffer_size": 1642,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/static_my_proj/css/main.css",
-			"settings":
-			{
-				"buffer_size": 25,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/db.sqlite3",
-			"settings":
-			{
-				"buffer_size": 348160,
-				"encoding": "Hexadecimal",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -518,7 +560,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 131.0,
 		"history":
 		[
 		]
@@ -536,30 +578,100 @@
 	[
 		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce",
 		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/accounts",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/accounts/migrations",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/billing",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/billing/templates",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/billing/templates/billing",
 		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/ecommerce",
-		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/ecommerce/__pycache__",
-		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products",
-		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/templates",
-		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/templates/products",
 		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/static_my_proj",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/static_my_proj/css",
 		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/static_my_proj/img",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/static_my_proj/js",
 		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/auth",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/base",
 		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/contact",
 		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/static_cdn",
-		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/static_cdn/media_root",
-		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/static_cdn/media_root/products",
-		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/static_cdn/static_root"
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/static_cdn/static_root",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/static_cdn/static_root/js"
 	],
 	"file_history":
 	[
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/ecommerce/views.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/billing/views.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/base/js_templates.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/base/js.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/billing/templates/billing/payment-method.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/billing/models.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/static_my_proj/js/ecommerce.main.js",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/static_my_proj/js/ecommerce.js",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/ecommerce/urls.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/base.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/static_my_proj/css/stripe-custom-style.css",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/base/css.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/accounts/forms.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/accounts/views.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/ecommerce/forms.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/static_my_proj/js/csrf.ajax.js",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/accounts/migrations/0001_initial.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/ecommerce/settings.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/accounts/admin.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/accounts/models.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/static_my_proj/ecommerce.js",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/contact/view.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/carts/views.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/search/templates/search/snippets/search-form.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/carts/templates/carts/snippets/remove-products.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/base/navbar.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/search/views.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/carts/templates/carts/home.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/views.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/templates/products/snippets/card.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/templates/products/snippets/update-cart.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/carts/models.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/fasttracktojquery/index.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/static_cdn/static_root/admin/css/base.css",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/addresses/views.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/addresses/templates/addresses/prev_addresses.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/addresses/templates/addresses/form.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/addresses/models.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/carts/templates/carts/checkout.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/orders/models.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/carts/templates/carts/checkout-done.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/carts/urls.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/addresses/admin.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/addresses/forms.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/accounts/templates/accounts/snippets/form.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/billing/admin.py",
+		"/Users/carlosblanco/Documents/Dadbox/frontend/home_dadbox.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/orders/admin.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/ecommerce/utils.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/models.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/tags/models.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/carts/__init__.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/notes",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/templates/products/detail.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/carts/admin.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/urls.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/search/templates/search/view.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/tags/admin.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/search/urls.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/home_page.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/auth/login.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/templates/products/list.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/templates/auth/register.html",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/admin.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/templates/products/utils.py",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/db.sqlite3",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/static_my_proj/css/main.css",
+		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/templates/products/featured-detail.html",
 		"/Users/carlosblanco/Documents/Guork/expansiontotal.mx/ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAHTYLupSTdoD4i",
 		"/Users/carlosblanco/Documents/Guork/expansiontotal.mx/ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNT",
 		"/Users/carlosblanco/Documents/Guork/expansiontotal.mx/ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAHTYLupSTdoD4i.pub",
-		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/products/templates/products/detail.html",
 		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/ecommerce/templates/home_page.html",
 		"/Users/carlosblanco/Documents/Dev/Nanodegrees/Mean-Stack/ecommerce-app/package.json",
 		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/ecommerce.sublime-project",
-		"/Users/carlosblanco/Documents/Dev/Ecommerce-CodingForEntrepeneurs/ecommerce/src/ecommerce/views.py",
 		"/Users/carlosblanco/Documents/Dev/Nanodegrees/Mean-Stack/Angular.org/angular-tour-of-heroes/terminal-commands.re",
 		"/Users/carlosblanco/Documents/Dev/Nanodegrees/Mean-Stack/Angular.org/angular-tour-of-heroes/src/app/app.module.ts",
 		"/Users/carlosblanco/Documents/Dev/Nanodegrees/Mean-Stack/Angular.org/angular-tour-of-heroes/src/app/app.component.html",
@@ -613,73 +725,7 @@
 		"/Users/carlosblanco/Dropbox/Clientes/Parties by Cortez/PBC Web 3.0/index.html",
 		"/Users/carlosblanco/Dropbox/Clientes/Parties by Cortez/PBC Web Pink/boys.html",
 		"/Users/carlosblanco/Dropbox/Clientes/Parties by Cortez/PBC Web Pink/index.html",
-		"/Users/carlosblanco/Dropbox/Clientes/Parties by Cortez/PBC Web/index.html",
-		"/Users/carlosblanco/Google Drive/Clientes/GC Painting/Website/Version 1/services.html",
-		"/Users/carlosblanco/Dropbox/Clientes/GC Painting/Website/Version 1/about.html",
-		"/Users/carlosblanco/Google Drive/Clientes/GC Painting/Website/Version 1/index.html",
-		"/Users/carlosblanco/Google Drive/Clientes/GC Painting/Website/Version 1/contact.html",
-		"/Users/carlosblanco/Google Drive/Clientes/GC Painting/Website/Version 1/about.html",
-		"/Users/carlosblanco/Google Drive/Clientes/GC Painting/Website/Version 1/css/style.css",
-		"/Users/carlosblanco/Dropbox/Clientes/ALCOR/web/index.html",
-		"/Users/carlosblanco/Dropbox/Clientes/GC Painting/Website/Version 1/index.html",
-		"/Users/carlosblanco/Dropbox/Clientes/GC Painting/Website/Version 1/services.html",
-		"/Users/carlosblanco/Dropbox/Clientes/GC Painting/Website/Version 1/contact.html",
-		"/Users/carlosblanco/Dropbox/Clientes/GC Painting/Website/Version 1/css/style.css",
-		"/Users/carlosblanco/Dropbox/Clientes/GC Painting/Website/Version 1/css/icomoon.css",
-		"/Users/carlosblanco/Dropbox/Clientes/MottoDigitalSolutions/web/es/marketing.html",
-		"/Users/carlosblanco/Dropbox/Clientes/MottoDigitalSolutions/web/es/index.html",
-		"/Users/carlosblanco/Dropbox/Clientes/MottoDigitalSolutions/web/index.html",
-		"/Users/carlosblanco/Dropbox/Clientes/MottoDigitalSolutions/web/marketing.html",
-		"/Users/carlosblanco/Dropbox/Clientes/MottoDigitalSolutions/web/assets/css/style.css",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/index.html",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/marketing.html",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/assets/plugins/vegas/jquery.vegas.min.css",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/assets/plugins/jquery.parallax-1.1.3.js",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/assets/plugins/jquery-1.10.2.js",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/assets/plugins/bootstrap.js",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/assets/js/custom.js",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/assets/css/style.css",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/assets/css/font-awesome.min.css",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/assets/css/font-awesome.css",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/assets/css/bootstrap.css",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/marketing/assets/css/bootstrap.css",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/main_website/marketing/assets/css/style.css",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/website/assets/css/main.css",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/website/index.html",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/html5up-ethereal/assets/css/main.css",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/Colors",
-		"/Users/carlosblanco/Documents/Clients/ALCOR/Alcor_Web/index.html",
-		"/Users/carlosblanco/Documents/Clients/ALCOR/Alcor_Web/assets/css/style.css",
-		"/Users/carlosblanco/Documents/Clients/ALCOR/Alcor_Web/assets/img/icons/brush.svg",
-		"/Users/carlosblanco/Documents/Motto Digital Solutions/MDS-Website/index.html",
-		"/Users/carlosblanco/Documents/Clients/ALCOR/Alcor_Web/assets/css/form-elements.css",
-		"/Users/carlosblanco/Downloads/Alcor_Web/index.html",
-		"/Users/carlosblanco/Documents/Clients/ALCOR/LOGO/ALCOR_2.svg",
-		"/Users/carlosblanco/Desktop/asd/KD-ROJO.svg",
-		"/Users/carlosblanco/Documents/Dev/Python/movies/fresh_tomatoes.py",
-		"/Users/carlosblanco/Documents/Dev/Web/AJAX/SAL_API/server.py",
-		"/Users/carlosblanco/Documents/Dev/Web/AJAX/SAL_API/js/script.js",
-		"/Users/carlosblanco/Documents/Dev/Web/AJAX/SAL_API/index.html",
-		"/Users/carlosblanco/Documents/Dev/Web/AJAX/minicourse-ajax-project/js/script.js",
-		"/Users/carlosblanco/Documents/Dev/Python/reminder.py",
-		"/Users/carlosblanco/Documents/Dev/Web/AJAX/minicourse-ajax-project/css/style.css",
-		"/Users/carlosblanco/Documents/Dev/Python/helloworld.py",
-		"/Users/carlosblanco/Dropbox/GC Painting/Web/css/style.css",
-		"/Users/carlosblanco/Dropbox/GC Painting/House.svg",
-		"/Users/carlosblanco/Dropbox/GC Painting/Web/index.html",
-		"/Users/carlosblanco/Documents/Dev/Web/Front End Nanodegree/Responsive Images/Project-Part-1-Start 2/Gruntfile.js",
-		"/Users/carlosblanco/Documents/Dev/Web/Front End Nanodegree/Responsive Images/Project-Part-1-Start 2/index.html",
-		"/Users/carlosblanco/Documents/Dev/Web/Front End Nanodegree/Project-Part-1-Start 2/index.html",
-		"/Users/carlosblanco/Dropbox/GC Painting/GCP.svg",
-		"/Users/carlosblanco/Google Drive/Kuxta Drive/Toklhob/Demo Plataforma/Bimcon/Platform/Site/wp-content/plugins/revslider/public/assets/assets/svg/busy-icons-svg/yen.svg",
-		"/Users/carlosblanco/Documents/Dev/Android Basics Nanodegree/Pet App/ud845-Pets-starting-point/app/src/main/java/com/example/android/pets/data/PetProvider.java",
-		"/Users/carlosblanco/Documents/Dev/Android Basics Nanodegree/Pet App/ud845-Pets-lesson-four/app/src/main/java/com/example/android/pets/data/PetProvider.java",
-		"/Users/carlosblanco/Documents/Dev/Android Basics Nanodegree/Pet App/ud845-Pets-lesson-four/app/src/main/java/com/example/android/pets/data/PetDbHelper.java",
-		"/Users/carlosblanco/Downloads/111181-graphicsbay-social-outline/svg/twitter-social-outlined-logo.svg",
-		"/Users/carlosblanco/Downloads/111181-graphicsbay-social-outline/svg/linkedin-social-outline-logotype.svg",
-		"/Users/carlosblanco/Downloads/111181-graphicsbay-social-outline/svg/instagram-social-outlined-logo.svg",
-		"/Users/carlosblanco/Downloads/111181-graphicsbay-social-outline/svg/facebook-logo-outline.svg",
-		"/Users/carlosblanco/Desktop/Kuxta Digital-BLANCO copy.svg"
+		"/Users/carlosblanco/Dropbox/Clientes/Parties by Cortez/PBC Web/index.html"
 	],
 	"find":
 	{
@@ -697,6 +743,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"{{",
+			"payment-form",
+			"clean_email",
+			"Cart ID",
+			"Cart Id",
+			"addresss",
+			"featured",
 			"cleaned_data"
 		],
 		"highlight": true,
@@ -715,459 +768,8 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/ecommerce/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2629,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2554,
-								2554
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/templates/auth/register.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 127,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								127,
-								127
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"auto_name": "",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/templates/auth/login.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 127,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								127,
-								0
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/ecommerce/settings.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3456,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1104,
-								1104
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 234.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "src/products/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1226,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1175,
-								1175
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/products/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2164,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								600,
-								600
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "src/products/templates/products/detail.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 133,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								133,
-								133
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"auto_name": "",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "src/products/templates/products/list.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 65,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "src/products/admin.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 120,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								119,
-								119
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "src/templates/home_page.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1889,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								844,
-								844
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 35.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "src/templates/contact/view.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2158,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								960,
-								960
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "src/ecommerce/forms.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2033,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1293,
-								1293
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 426.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "src/ecommerce/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1642,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1364,
-								1364
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 13.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "src/static_my_proj/css/main.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 25,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								25,
-								25
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"auto_name": "",
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "src/db.sqlite3",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 348160,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1252,7 +854,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 177.0,
+	"side_bar_width": 238.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
