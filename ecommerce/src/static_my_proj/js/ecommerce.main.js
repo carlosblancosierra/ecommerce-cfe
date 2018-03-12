@@ -93,12 +93,17 @@ $(document).ready(function(){
 
     // Handle form submission.
     var form = $('#payment-form');
+    var btnLoad = form.find('.btn-load')
+    var btnLoadDefaultHtml = btnLoad.html()
+    var btnLoadDefaultClasses = btnLoad.attr("class")
+
     form.on('submit', function(event) {
       event.preventDefault();
       //get the btn
       // display new btn ui
       var $this = $(this)
-      var btnLoad = $this.find('.btn-load')
+      // btnLoad = $this.find('.btn-load')
+      btnLoad.blur()
       var loadTime = 1500
       var currentTimeout;
       var errorHtml= "<i class='fa fa-warning'></i> An error Ocurred"
@@ -111,8 +116,22 @@ $(document).ready(function(){
           // Inform the user if there was an error.
           var errorElement = $('#card-errors');
           errorElement.textContent = result.error.message;
+          currentTimeout = displayBtnStatus(
+                                btnLoad,
+                                errorHtml,
+                                errorClasses,
+                                1000,
+                                currentTimeout)
+
         } else {
           // Send the token to your server.
+          currentTimeout = displayBtnStatus(
+                                btnLoad,
+                                loadingHtml,
+                                loadindClasses,
+                                10000,
+                                currentTimeout)
+
           stripeTokenHandler(nextUrl, result.token);
         }
       });
@@ -120,21 +139,22 @@ $(document).ready(function(){
 
     function displayBtnStatus(element, newHtml, newClasses, loadTime, timeout){
 
-        if(timeout){
-            clearTimeout(timeout)
+        // if(timeout){
+        //     clearTimeout(timeout)
+        // }
+
+        if (!loadTime){
+            loadTime = 1500
         }
 
-        var defaultHtml = element.html()
-        var defaultClasses = element.attr("class")
-
         element.html(newHtml)
-        element.removeClass(defaultClasses)
+        element.removeClass(btnLoadDefaultClasses)
         element.addClass(newClasses)
 
         return setTimeout(function(){
-            element.html(defaultHtml)
+            element.html(btnLoadDefaultHtml)
             element.removeClass(newClasses)
-            element.addClass(defaultClasses)
+            element.addClass(btnLoadDefaultClasses)
         }, loadTime)
 
     }
@@ -165,14 +185,19 @@ $(document).ready(function(){
                 }
                 if ($.alert){
                     $.alert(successMsg)
-                    redirectToNext(nextUrl, 1500)
                 } else {
                     alert(successMsg)
-                    redirectToNext(nextUrl, 1500)
                 }
+                btnLoad.html(btnLoadDefaultHtml)
+                btnLoad.attr('class',btnLoadDefaultClasses)
+                redirectToNext(nextUrl, 1500)
+
             },
             error: function(error){
                 console.log(error)
+                $.alert({title:'An error ocurred', content:"Please add trying adding your card again."})
+                btnLoad.html(btnLoadDefaultHtml)
+                btnLoad.attr('class',btnLoadDefaultClasses)
             }
         })
 
